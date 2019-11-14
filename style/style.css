@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  height: 49px;
+  padding: 8px 16px;
+}
+
+header .header-icon {
+  padding: 0 8px;
+}
+
+header input[type="search"] {
+  padding: 0px;
+  line-height: 36px;
+  height: 38px;
+  width: 407px;
+}
+
+header .header-list {
+  display: flex;
+  margin-left: auto;
+}
+
+header .header-list .list-item {
+  padding: 14px;
+}
